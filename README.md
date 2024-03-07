@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-    <img src="https://github.com/xxzzyyhhh/-/raw/main/barrier_raw_1.gif?raw=true"><br/>
+    <img src="https://github.com/xxzzyyhhh/-/raw/main/barrier_raw_2.gif?raw=true"><br/>
     <em>传统车辆编队面对突发事故场景下的表现</em>
 </p>
 
